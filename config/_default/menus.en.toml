@@ -12,31 +12,22 @@
 
 [[main]]
   name = "Blog"
-  pageRef = "blog"
+  #pageRef = "posts"
+  pre = "hashnode"
+  url = "https://blog.lokeshkr.com"
   weight = 10
-
-[[main]]
-    name = "Tech"
-    parent = "Blog"
-    pageRef = "blog/tech"
-    weight = 10
-
-[[main]]
-    name = "Non Tech"
-    parent = "Blog"
-    pageRef = "blog/non-tech"
-    weight = 20
 
 [[main]]
   name = "Projects"
   pre = "github"
-  pageRef = "projects"
+  url = "https://github.com/codeTIT4N?tab=repositories"
   weight = 20
 
-[[main]]
-  name = "Experience"
-  pageRef = "experience"
-  weight = 30
+#[[main]]
+#  name = "Experience"
+#  pageRef = "experience"
+#  weight = 30
+#
 
 [[main]]
   name = "About"
