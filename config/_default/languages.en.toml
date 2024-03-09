@@ -8,14 +8,14 @@ title = "Lokesh Kumar"
   isoCode = "en"
   rtl = false
   dateFormat = "2 Jan 2006"
-  # logo = "img/logo.png"
+  #logo = "img/metaverse.jpg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
    name = "Lokesh Kumar"
-   #image = "img/blowfish_logo.png"
+   image = "img/metaverse.jpg"
    headline = "Code Craftsman . Blockchain Dev . Problem Solver"
    bio = "Into tech for as long as I could remember"
    links = [

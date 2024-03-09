@@ -1,8 +1,6 @@
 # personal-website
 
-Under Development
-
-Live at: https://lokeshkr.com
+Live at https://lokeshkr.com
 
 ### Run dev server
 
